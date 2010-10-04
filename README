@@ -4,6 +4,11 @@
 
 備考
 
-  route_name_checker.py は PyYAML が必要
+  aa.pyほか ... ちょっと何か試したファイルとか
+
+  openpne/ ... OpenPNE関連
+    route_name_checker.py は PyYAML が必要
+
+  wavelet/ ... ウェーブレット変換
 
 
